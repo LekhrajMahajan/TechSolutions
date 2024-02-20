@@ -1,1 +1,2 @@
-# TechSolutions
+Name: TechSolutions Ltd.
+Author: LekhrajMahajan
